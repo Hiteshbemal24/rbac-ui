@@ -57,16 +57,19 @@ npm start
 ```bash
 http://localhost:3000
 ```
-##Usage
--Adding a Permission
--Click the Add Permission button on the top right of the page.
--A modal will appear prompting you to enter the name of the permission.
--Enter a name for the permission and click Save Permission.
--The new permission will be added to the table and a success toast notification will appear.
-##Deleting a Permission
--In the permissions table, click the Delete button next to any permission you want to remove.
--A success toast notification will appear confirming the deletion of the permission.
-##Toast Notifications
--Success: Green toast notification appears when a permission is added or deleted successfully.
--Error: If there is an error (e.g., trying to add an empty permission name), a red toast notification will appear.
-##Thank You
+
+# Usage
+- Adding a Permission
+- Click the Add Permission button on the top right of the page.
+- A modal will appear prompting you to enter the name of the permission.
+- Enter a name for the permission and click Save Permission.
+- The new permission will be added to the table and a success toast notification will appear.
+  
+# Deleting a Permission
+- In the permissions table, click the Delete button next to any permission you want to remove.
+- A success toast notification will appear confirming the deletion of the permission.
+- 
+# Toast Notifications
+- Success: Green toast notification appears when a permission is added or deleted successfully.
+- Error: If there is an error (e.g., trying to add an empty permission name), a red toast notification will appear.
+# Thank You
